@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Git
+   1. Branching
+   2. Merging
